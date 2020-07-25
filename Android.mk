@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Don't recurse into the platform makefiles. We don't care about them, and
 # we don't want to force a reset of BOARD_SEPOLICY_DIRS
 #
